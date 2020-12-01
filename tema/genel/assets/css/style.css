@@ -2091,13 +2091,13 @@ h4.g-title {
 }
 
 .banner img {
-    height: 275px;
+    height: 424px;
     width: 100%;
     object-fit: cover;
 }
 
 .banner-fix {
-    margin-top: -75px;
+    margin-top: 0px;
 }
 
 .breadcrumb {
@@ -6829,6 +6829,7 @@ legend {
     box-shadow: 0 10px 70px 0 rgba(103,151,255,.22), 0 15px 105px 0 rgba(103,151,255,.22);
     margin: auto;
     margin-bottom: 20px;
+    text-align: left;
 }
 
 .svg-clr:hover{
@@ -6869,12 +6870,12 @@ legend {
 }
 
 .svg-shape{
-    opacity: .5;
+       opacity: .5;
     width: 55%;
-    bottom: -35%;
-    left: 13%;
+    bottom: -3%;
+    left: 28%;
     -webkit-transform: rotate(10deg);
-    transform: rotate(10deg);
+    transform: rotate(0deg);
     position: absolute;
     z-index: -1;
 }
@@ -6883,3 +6884,4 @@ legend {
     box-shadow: 0 8px 60px 0 rgba(103,151,255,.11), 0 12px 90px 0 rgba(103,151,255,.11);
     border-radius: 8px;
 }
+
